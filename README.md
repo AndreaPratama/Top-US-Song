@@ -67,6 +67,6 @@ _You can interact with report Here [Novypro](https://www.novypro.com/project/top
 
 ## Conclusion & Recommendation
 
-In conclusion, this data analysis project provides valuable insights into the US music industry. Understanding the patterns and trends within the data can help artists, record labels, and other stakeholders make informed decisions. Recommendations for further analysis and improvements to the dataset may include exploring additional features or incorporating external data sources.
+In conclusion, this data analysis project provides valuable insights into the US music industry. Understanding the patterns and trends within the data can help artists, record labels, and make informed decisions. Recommendations for further analysis and improvements to the dataset may include exploring additional features or incorporating external data sources.
 
 
