@@ -63,6 +63,8 @@ The Power BI dashboard created for this project includes:
 - Visualizations depicting song release trends and competition among artists by gender.
 - Bar charts illustrating average song duration, top-ranked songs, total songs by genre, and artists categorized by popularity label.
 
+![](TopUsSong.png)
+
 _You can interact with report Here [Novypro](https://www.novypro.com/project/top-us-song)_
 
 ## Conclusion & Recommendation
